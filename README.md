@@ -12,7 +12,7 @@ Template created using "yarn create react-app <name>".
   - Guarded Route example given in App.jsx
 
 ## Using Redux in a component
-  Add these imports the component
+  Add these imports in the component
   > import {useSelector, useDispatch} from 'react-redux';
   ### declaring a reducer
   > const reducerName = useSelector(state => state.reducerName);
